@@ -65,8 +65,8 @@ void playVexcodeSound(const char *soundName) {
 /*                                                                            */
 /*    Module:       main.cpp                                                  */
 /*    Author:       Brett Mitchell                                            */
-/*    Created:      5/8/25                                                    */
 /*    Description:  Autonomous Navigation                                     */
+/*                                                                            */
 /*                                                                            */
 /*----------------------------------------------------------------------------*/
 
